@@ -30,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 make container center:
 https://v2.tailwindcss.com/docs/container#centering-by-default
+
+make div center:
+https://codepen.io/smpnjn/pen/xxJMNoM?ref=hackernoon.com
