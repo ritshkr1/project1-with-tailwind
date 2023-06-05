@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/project1-with-tailwind",
+            "outputPath": "docs/project1-with-tailwind",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
